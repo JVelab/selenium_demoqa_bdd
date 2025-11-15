@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/python-3.14-blue)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/selenium-4.21-green)](https://www.selenium.dev/)
 [![Behave](https://img.shields.io/badge/BDD-Behave-orange)](https://behave.readthedocs.io/)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ## 🚀 Autor
 
